@@ -1,5 +1,5 @@
 # U.S_diabetes_prevalence_2019-2022_SQL_cleaned
-Cleaned data from the U.S Chronic Disease Indicator [CDC - https://www.cdc.gov/cdi/index.html] website. I isolated data specifically for overall United States diabetes studies and used Postgre SQL to clean the data to present year and state-level trends.  
+The uncleaned data was comprised of data from  various healthcare studies. I decided to focus on diabetes since my first Ph.D. project [which was not much of a success], focused on diabetic foot ulcers. I used PostgreSQL to isolate and clean the raw data specifically for the prevalence of diabetes in the US. I wanted to focus on state-level and yearly trends. 
 
 
-The raw data with various studies can be found at [https://www.cdc.gov/cdi/index.html].
+The raw data from various studies can be found at [https://www.cdc.gov/cdi/index.html].
